@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dtMoney" title="dtMoney" src=".github/logo.svg" />
+  <img alt="Letmeask" title="Letmeask" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -26,12 +26,20 @@
 <br/>
 <br/>
 
-## 💻 Projeto
+# 💻 Projeto
 
-O DtMoney é um app para realizar o gerenciamento de contas pessoais, mostrando as entradas e saídas de movimento financeiro pessoal.
+O Letmeask é um app para realizar perguntas e respostas dentro de determinadas salas criadas pelos usuários.
 
-<br/>
-<br/>
+Realizado pela **[@Rocketseat](https://github.com/Rocketseat)** durante o Next Level Week Together, trilha ReactJS.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## ✨ Tecnologias utilizadas
 
@@ -39,6 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://console.firebase.google.com/)
 
 <br/>
 <br/>
@@ -50,7 +59,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Clone o projeto**
 
 ```bash
-  gh repo clone kaicLimaOliveira/dtMoney-app
+  gh repo clone kaicLimaOliveira/LetmeAsk
 
 **Siga os passo abaixo**
 

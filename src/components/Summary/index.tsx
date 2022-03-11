@@ -8,7 +8,7 @@ import { useTransactions } from "../../hooks/useTransactions";
 
 import { CardTotal, Container } from "./styles";
 
-const Summary: React.FC = () => {
+export const Summary: React.FC = () => {
   const { transactions } = useTransactions();
 
   const summary = transactions.reduce(
@@ -74,5 +74,3 @@ const Summary: React.FC = () => {
     </Container>
   );
 };
-
-export { Summary };

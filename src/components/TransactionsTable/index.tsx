@@ -1,10 +1,12 @@
+import React from "react";
+
 import { useTransactions } from "../../hooks/useTransactions";
 
 import { FiTrash2 } from "react-icons/fi";
 
 import { Container, Title } from "./styles";
 
-export function TransactionsTable() {
+export const TransactionsTable: React.FC = () => {
   const { transactions, removeTransactions } = useTransactions();
 
   return transactions.length > 0 ? (
@@ -52,4 +54,3 @@ export function TransactionsTable() {
     </Title>
   );
 };
-
