@@ -24,7 +24,6 @@
 </p>
 
 <br/>
-<br/>
 
 # 💻 Projeto
 
@@ -32,14 +31,7 @@ O Letmeask é um app para realizar perguntas e respostas dentro de determinadas 
 
 Realizado pela **[@Rocketseat](https://github.com/Rocketseat)** durante o Next Level Week Together, trilha ReactJS.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+<br/>
 
 ## ✨ Tecnologias utilizadas
 
@@ -47,9 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Firebase](https://console.firebase.google.com/)
 
-<br/>
 <br/>
 
 ## 🚀 Como executar
@@ -73,9 +63,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O aplicativo estará para acesso em seu navegador em: `http://localhost:3000`
 
-<br/>
-<br/>
-
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -91,4 +78,6 @@ Feito por Kaic de Lima Oliveira 👋🏽 Entre em contato!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/kaic.oliveira.587)](https://www.facebook.com/kaic.oliveira.587) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kaic.lo/)](https://www.instagram.com/kaic.lo)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:kaic10@outlook.com)](mailto:kaic10@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaic-de-lima-oliveira-3633041a4/)
+
 # dtMoney-app
